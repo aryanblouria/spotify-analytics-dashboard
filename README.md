@@ -17,9 +17,3 @@
   <img  src="img/5.png">
   <img  src="img/6.png">
 </p>
-
-## Contributors
-
-<a href="https://github.com/avats101/Spotilyser/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=avats101/Spotilyser" />
-</a>
